@@ -1,0 +1,33 @@
+* {
+    font-size: 18px;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+    color: navy;
+}
+
+.picture-of-me {
+    width: auto;
+    height: 160px;
+    border-radius: 100%;
+}
+
+.my-name {
+    font-size: 50px;
+}
+
+.no-bullets {
+    list-style: none;
+}
+
+.borders {
+    border: rgb(114, 114, 133);
+    border-style: groove;
+    margin: 12px;
+    padding-left: 50px;
+}
