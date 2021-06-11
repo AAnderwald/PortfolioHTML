@@ -25,9 +25,10 @@ h3 {
     list-style: none;
 }
 
+
 .borders {
     border: rgb(114, 114, 133);
     border-style: groove;
-    margin: 12px;
+    margin-bottom: 50px;
     padding-left: 50px;
 }
